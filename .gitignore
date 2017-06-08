@@ -87,3 +87,8 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+notebooks/MNIST_data/
+notebooks/notMNIST-to-MNIST/
+notebooks/notMNIST_data/
+
